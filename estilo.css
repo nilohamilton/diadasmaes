@@ -1,0 +1,24 @@
+body{
+    background-color:lightpink;
+}
+#kbecalho{
+    background: deeppink;
+    text-align: center;
+    margin-top: 0%;
+    border-radius: 50px;
+    box-shadow: 10px 10px;
+}
+#Conteudo{
+    margin-top: 10%;
+    background-image: url("https://i.pinimg.com/736x/29/c7/f6/29c7f6b0dc52374575c8570870d64175.jpg");
+    color: whitesmoke;
+    text-align: justify;
+    text-decoration:wavy;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
